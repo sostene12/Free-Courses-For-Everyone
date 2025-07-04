@@ -17,7 +17,8 @@
 | [online-courses](https://online-courses.club/)                                      | Watch and Learn. Educate yourself!                                                                                                           |
 | [pimpmymoney](https://pimpmymoney.net/)                                             | Turbocharge your money instantly. FREE access to the latest Digital Marketing Courses.                                                       |
 | [udemyfreecourses](https://udemyfreecourses.org/)                                   | find ALL free courses of Udemy in an easy and quick way.                                                                                     |
-| [free-programming-books](https://ebookfoundation.github.io/free-programming-books/) | Freely available programming books, online courses and Podcast.                                                                              |
+| [free-programming-books](https://ebookfoundation.github.io/free-programming-books/) | Freely available programming books, online courses and Podcast.   
+| [hacks nation ](https://hacksnation.com/) | Freely premium available programming courses.     |
 
 ## Free and Discount Coupons
 
